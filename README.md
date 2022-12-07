@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Umer Bedewu
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Software enginnering 
-- 💞️ I’m looking to collaborate on coding dufferent task
+- 💞️ I’m looking to collaborate on coding different task
 - 📫 you can reach me omibedewi@gmail.com
 
 <!---
